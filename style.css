@@ -17,5 +17,21 @@ body{
     padding: 0px;
     margin: 0px;
     border: 0px solid black;
+    display: flex;
+    justify-content: center;
 
+}
+
+.box1{
+
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border: 10px solid green;
+    border-radius: 10px;
 }
